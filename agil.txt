@@ -1,7 +1,7 @@
-hallo bryan
 git config --global --list
 git config --global user.name 682023025-wq
+hallo bryan
 git config --global user.email 682023025@student.uksw.edu
 hkjgj ---asdhaskj
-                                                                                                
+       jda                                                                                         
         
